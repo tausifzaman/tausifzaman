@@ -39,9 +39,6 @@ I am Tausif Zaman, a cybersecurity expert based in Bangladesh. With extensive ex
 <br/>
 <hr/>
 
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
