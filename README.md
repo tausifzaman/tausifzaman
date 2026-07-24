@@ -54,7 +54,12 @@ I am Tausif Zaman, a cybersecurity expert based in Bangladesh. With extensive ex
 <br/>
 
 <div align="center">
-<a href='https://tausifzaman.online/donate.html' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://raw.githubusercontent.com/tausifzaman/PassGenerator/refs/heads/main/donation.gif' border='0' alt='Buy Me a Coffee by crypto/></a>
+  <a href="https://tausifzaman.online/donate.html" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/tausifzaman/PassGenerator/main/donation.gif"
+      height="64"
+      alt="Buy Me a Coffee by Crypto">
+  </a>
 </div>
 
 <br/>
